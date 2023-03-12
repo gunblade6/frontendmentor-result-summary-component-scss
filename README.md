@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://your-solution-url.com)
+- Live Site URL: [live site URL here](https://your-live-site-url.com)
 
 ## My process
 
@@ -41,6 +41,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Mohamed](https://mohamed-dev.netlify.app)
 - Frontend Mentor - [@midoashraf010](https://www.frontendmentor.io/profile/midoashraf010)
 - Twitter - [@yourusername](https://www.twitter.com/_gunblade6)
